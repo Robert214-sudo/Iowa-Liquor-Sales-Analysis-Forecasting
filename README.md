@@ -7,7 +7,7 @@ This project analyzes Iowa’s liquor sales data to uncover trends, identify top
 **Model date:** July 2025  
 **Model version:** 1.0  
 **License:** MIT  
-**Model implementation:**
+**Model implementation:** https://github.com/Robert214-sudo/Iowa-Liquor-Sales-Analysis-Forecasting/blob/main/iowa%20sales.ipynb
 
 ---
 
